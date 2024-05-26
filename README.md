@@ -1,0 +1,1 @@
+Primeiro projeto em desenvolvimento de jogos utilizando Godot. Este projeto foi feito seguindo o tutorial https://www.youtube.com/watch?v=LOhfqjmasi0
